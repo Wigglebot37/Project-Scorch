@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_norm",
+  "name":"shd_norm",
+  "parent":{
+    "name":"Lights",
+    "path":"folders/Shaders/Lights.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

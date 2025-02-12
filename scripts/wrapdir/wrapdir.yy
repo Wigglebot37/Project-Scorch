@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"wrapdir",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"wrapdir",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
